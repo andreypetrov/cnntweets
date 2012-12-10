@@ -9,7 +9,7 @@ import com.sun.jersey.api.client.UniformInterfaceException;
  * 
  * The application is downloading all not-deleted/suspended from the last 199 CNN Breaking News tweets. Actual number of tweets varies. After getting them, it
  * finds the two of them with the longest common substring in between. The comparison of strings is case-sensitive. URL addresses starting with
- * http/https are trimmed away from the tweets before the comparison. 
+ * http/https are trimmed away from the tweets before the comparison. hm
  * 
  */
 public class App {
